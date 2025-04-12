@@ -1,6 +1,6 @@
 # Script manutenzione Linux
 
-Un semplice script di manutenzione per eseguire vari processi di manutenzion in uno, utilizzo Debian e a volte è noioso effettuare aggiornamenti in particolare perchè la componente grafica non mostra sempre gli aggiornamenti disponibili.
+Un semplice script per eseguire vari processi di manutenzioni in uno, utilizzo Debian e a volte è noioso effettuare aggiornamenti in particolare perchè la componente grafica non mostra sempre gli aggiornamenti disponibili.
 
 Questo script fa le seguenti cose:
 
